@@ -12,7 +12,7 @@ I have built upon that work and will keep pushing updates, as and when I get the
 
 Basically, this virus infects all your php files and will copy itself onto them and the process repeats.
 
-I hope to be adding payloads(I was thinking using JSON) to this in the future.
+I hope to be adding payloads(I was thinking of using JSON) to this in the future.
 
 Feel free to contribute to it and build on it if you please.
 
@@ -20,4 +20,6 @@ Feel free to contribute to it and build on it if you please.
 
 Please do not use this virus to cause any harm. I am not responsible for any misuse of the code.
 
-## Also, please do not run this on your personal server/localhost, please run it in a virtual environment!
+# Please note:
+Do not run this on your personal server/localhost, please run it in a virtual environment! It infects all files in your system
+Cleaning it up is a mess. Run it at your own risk.
