@@ -16,6 +16,9 @@ Basically, this virus infects all your php files and will copy itself onto them 
 I have not added any payload yet. I am working on getting the infection mechanism right first. I hope to add payloads(I was thinking of using JSON) to this in the future.
 You can modify this virus to infect any file. And it can become pretty nasty.
 
+### to do:
+The virus infects itself and reinfects already infected files. This will be fixed by me in the future. 
+
 Feel free to contribute to it and build on it if you please.
 
 # Warning:
