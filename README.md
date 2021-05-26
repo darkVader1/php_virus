@@ -18,10 +18,10 @@ You can modify this virus to infect any file. And it can become pretty nasty.
 
 Feel free to contribute to it and build on it if you please.
 
-## Warning:
+# Warning:
 
 Please do not use this virus to cause any harm. I am not responsible for any misuse of the code.
 
-# Please note:
+## Please note:
 Do not run this on your personal server/localhost, please run it in a virtual environment! It infects all files in your system
 Cleaning it up is a mess. Run it at your own risk.
