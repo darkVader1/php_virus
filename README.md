@@ -3,7 +3,7 @@ A virus I wrote in PHP
 
 # Overview:
 
-I won't deny, this virus has been heavily inspired by the video: 
+I won't deny, this virus has been heavily inspired by the talk: 
 Writing Viruses for fun and not for profit.
 Link: https://www.youtube.com/watch?v=2Ra1CCG8Guo
 
@@ -12,7 +12,9 @@ I have built upon that work and will keep pushing updates, as and when I get the
 
 Basically, this virus infects all your php files and will copy itself onto them and the process repeats.
 
-I hope to be adding payloads(I was thinking of using JSON) to this in the future.
+# For the future:
+I have not added any payload yet. I am working on getting the infection mechanism right first. I hope to add payloads(I was thinking of using JSON) to this in the future.
+You can modify this virus to infect any file. And it can become pretty nasty.
 
 Feel free to contribute to it and build on it if you please.
 
